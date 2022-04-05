@@ -1,6 +1,6 @@
 # MyFoodRepo: a full-stack system for professional nutrition tracking
 
-This repository contains all the importnat links to the MyFoodRepo platform, data sources, and models.
+This repository contains all the important links to the MyFoodRepo platform, data sources, and models.
 
 ## 🖥 MyFoodRepo public website
 www.myfoodrepo.org
@@ -22,3 +22,6 @@ https://gitlab.aicrowd.com/aicrowd/research/myfoodrepo-experiments
 
 ### 👩‍💻 Codebase of winning solutions
 https://www.aicrowd.com/challenges/food-recognition-challenge/winners
+
+## ⫴⫴ The Open Food Repo
+https://www.foodrepo.org
